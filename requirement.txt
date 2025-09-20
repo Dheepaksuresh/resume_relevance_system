@@ -1,8 +1,0 @@
-streamlit
-pandas
-plotly
-pdfplumber
-python-docx
-scikit-learn
-sentence-transformers
-torch
